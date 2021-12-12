@@ -1,5 +1,5 @@
 # tidbyt-text-demo
-Demos of text on Tidbyt display
+Demos of fancy text on [Tidbyt](https://tidbyt.com/) display.
 
 ### Drop Shadow
 ![Preview](dropshadow.png)
